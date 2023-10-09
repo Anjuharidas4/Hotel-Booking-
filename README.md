@@ -1,8 +1,8 @@
 # Hotel-Booking using Tableau
 
-#### Data Description
+### <ins>Data Description</ins>
 
-hotel: Hotel type.
+<h6> hotel: Hotel type<br>.
 
 is_canceled: Value indicates if the booking is canceled or not.
 
@@ -62,5 +62,7 @@ total_of_special_requests: Number of special requests made by the customer (e.g.
 
 reservation_status: Reservation last status, assuming one of three categories: Canceled – booking was canceled by the customer; Check-Out: customer check out from hotel,No show: Customer did not check-in hotel and informed hotel with reason.
 
-reservation_status_date: Date at which the last status was set. This variable can be used in conjunction with the ReservationStatus to understand when was the booking cancelled or when did the customer checked out of the hotel
+reservation_status_date: Date at which the last status was set. This variable can be used in conjunction with the ReservationStatus to understand when was the booking cancelled or when did the customer checked out of the hotel</h6>
+
+<h3><ins> Data Manupulation </h3></ins>
 
