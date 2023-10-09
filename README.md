@@ -66,3 +66,7 @@ reservation_status_date: Date at which the last status was set. This variable ca
 
 <h3><ins> Data Manupulation </h3></ins>
 
+<h6>1) In which year did the maximum number of bookings occur, considering individual hotels in three years?</h6>
+
+<img width="683" alt="Screenshot 2023-10-09 at 5 57 53 PM" src="https://github.com/Anjuharidas4/Hotel-Booking-Analysis/assets/108412331/ba43a0a1-d9cd-4fb0-8625-76a6b9b00365">
+
