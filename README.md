@@ -68,8 +68,10 @@
 
 ##### 1) In which year did the maximum number of bookings occur, considering individual hotels in three years?
 
-##### In 2016, there were over 55,000 bookings in total, with the majority of them, specifically 38,140, being made at city hotels, indicating that city hotels received the highest number of bookings that year.
+<img width="712" alt="Screenshot 2023-10-09 at 9 58 10 PM" src="https://github.com/Anjuharidas4/Hotel-Booking-Analysis/assets/108412331/11932b4d-c46c-427f-be9b-bfa347f12a0f">
+
+#####  - In terms of bookings, 2016 exceeded 2015 with over 55 bookings, marking it as the year with the highest numbers. However, there was a decrease in bookings in 2017, which still outperformed the numbers from 2015.
 
 <img width="588" alt="Screenshot 2023-10-09 at 9 48 22 PM" src="https://github.com/Anjuharidas4/Hotel-Booking-Analysis/assets/108412331/eddaf22e-9763-4ea0-900f-db1bd1c743b9">
 
-<img width="712" alt="Screenshot 2023-10-09 at 9 58 10 PM" src="https://github.com/Anjuharidas4/Hotel-Booking-Analysis/assets/108412331/11932b4d-c46c-427f-be9b-bfa347f12a0f">
+#####  - In 2016, city hotels received the highest number of bookings, with a total of 38,140 bookings, surpassing the number of bookings at resorts.
