@@ -2,71 +2,74 @@
 
 ### <ins>Data Description</ins>
 
-<h6> hotel: Hotel type<br>.
+ - ***hotel***: Hotel type 
 
-is_canceled: Value indicates if the booking is canceled or not.
+ - ***is_canceled***: Value indicates if the booking is canceled or not.
 
-lead_time: How long in advance the booking was made.
+ - ***lead_time***: How long in advance the booking was made.
 
-arrival_date_year: Customer arrival year.
+ - ***arrival_date_year***: Customer arrival year.
 
-arrival_date_month: In which month of the year does the customer visit the hotel?
+ - ***arrival_date_month***: In which month of the year does the customer visit the hotel?
 
-arrival_date_week_number: In which week of the year the customer arrived.
+ - ***arrival_date_week_number***: In which week of the year the customer arrived.
 
-arrival_date_day_of_month: The date of the month the customer visited the hotel.
+ - ***arrival_date_day_of_month***: The date of the month the customer visited the hotel.
 
-stays_in_weekend_nights: Customer stayed or booked to stay in a hotel during weekend nights.
+ - ***stays_in_weekend_nights***: Customer stayed or booked to stay in a hotel during weekend nights.
 
-stays_in_week_nights: Customer stayed in the hotel during weeknights.
+ - ***stays_in_week_nights***: Customer stayed in the hotel during weeknights.
 
-adults: Number of adults
+ - ***adults***: Number of adults
 
-children: Number of children.
+ - ***children***: Number of children.
 
-babies: Number of babies.
+ - ***babies***: Number of babies.
 
-meal: Type of meal booked. 
+ - ***meal***: Type of meal booked. 
 
-country: Country of origin of customer.
+ - ***country***: Country of origin of customer.
 
-market_segment: where the bookings came from.
+ - ***market_segment***: where the bookings came from.
 
-distribution_channel: Booking distribution channel. The term “TA” means “Travel Agents” and “TO” means “Tour Operators”.
+ - ***distribution_channel***: Booking distribution channel. The term “TA” means “Travel Agents” and “TO” means “Tour Operators”.
 
-is_repeated_guest: Value indicating if the booking name was from a repeated guest (1) or not (0).
+ - ***is_repeated_guest***: Value indicating if the booking name was from a repeated guest (1) or not (0).
 
-previous_cancellations: Number of previous bookings that were cancelled by the customer prior to the current booking.
+ - ***previous_cancellations***: Number of previous bookings that were cancelled by the customer prior to the current booking.
 
-previous_bookings_not_canceled: Number of previous bookings that were cancelled by the customer prior to the current booking.
+ - ***previous_bookings_not_canceled***: Number of previous bookings that were cancelled by the customer prior to the current booking.
 
-reserved_room_type: Code of room type reserved. Code is presented instead of designation for anonymity reasons.
+ - ***reserved_room_type***: Code of room type reserved. Code is presented instead of designation for anonymity reasons.
 
-assigned_room_type: Code for the type of room assigned to the booking. Sometimes the assigned room type differs from the reserved room type due. booking_changes : Number of changes/amendments made to the booking from the moment the booking was entered on the PMS.
+ - ***assigned_room_type***: Code for the type of room assigned to the booking. Sometimes the assigned room type differs from the reserved room type due. booking_changes : Number of changes/amendments made to the booking from the moment the booking was entered on the PMS.
 
-deposit_type: Indication if the customer made a deposit to guarantee the booking.
+ - ***deposit_type***: Indication if the customer made a deposit to guarantee the booking.
 
-agent: ID of the travel agency that made the booking.
+ - ***agent***: ID of the travel agency that made the booking.
 
-company: ID of the company/entity that made the booking or responsible for paying the booking.
+ - ***company***: ID of the company/entity that made the booking or responsible for paying the booking.
 
-days_in_waiting_list: Number of days the booking was in the waiting list before it was confirmed to the customer.
+ - ***days_in_waiting_list***: Number of days the booking was in the waiting list before it was confirmed to the customer.
 
-customer_type: Type of booking, assuming one of four categories.
+ - ***customer_type***: Type of booking, assuming one of four categories.
 
-ADR: Average Daily Rate as defined by dividing the sum of all lodging transactions by the total number of staying nights.
+ - ***ADR***: Average Daily Rate as defined by dividing the sum of all lodging transactions by the total number of staying nights.
 
-required_car_parking_spaces: Number of car parking spaces required by the customer.
+ - ***required_car_parking_spaces***: Number of car parking spaces required by the customer.
 
-total_of_special_requests: Number of special requests made by the customer (e.g. twin bed or high floor).
+ - ***total_of_special_requests***: Number of special requests made by the customer (e.g. twin bed or high floor).
 
-reservation_status: Reservation last status, assuming one of three categories: Canceled – booking was canceled by the customer; Check-Out: customer check out from hotel,No show: Customer did not check-in hotel and informed hotel with reason.
+ - ***reservation_status***: Reservation last status, assuming one of three categories: Canceled – booking was canceled by the customer; Check-Out: customer check out from hotel,No show: Customer did not check-in hotel and informed hotel with reason.
 
-reservation_status_date: Date at which the last status was set. This variable can be used in conjunction with the ReservationStatus to understand when was the booking cancelled or when did the customer checked out of the hotel</h6>
+ - ***reservation_status_date***: Date at which the last status was set. This variable can be used in conjunction with the ReservationStatus to understand when was the booking cancelled or when did the customer checked out of the hotel.
 
-<h3><ins> Data Manupulation </h3></ins>
+### <ins> Data Manupulation </ins>
 
-<h6>1) In which year did the maximum number of bookings occur, considering individual hotels in three years?</h6>
+##### 1) In which year did the maximum number of bookings occur, considering individual hotels in three years?
 
-<img width="683" alt="Screenshot 2023-10-09 at 5 57 53 PM" src="https://github.com/Anjuharidas4/Hotel-Booking-Analysis/assets/108412331/ba43a0a1-d9cd-4fb0-8625-76a6b9b00365">
+##### In 2016, there were over 55,000 bookings in total, with the majority of them, specifically 38,140, being made at city hotels, indicating that city hotels received the highest number of bookings that year.
 
+<img width="588" alt="Screenshot 2023-10-09 at 9 48 22 PM" src="https://github.com/Anjuharidas4/Hotel-Booking-Analysis/assets/108412331/eddaf22e-9763-4ea0-900f-db1bd1c743b9">
+
+<img width="712" alt="Screenshot 2023-10-09 at 9 58 10 PM" src="https://github.com/Anjuharidas4/Hotel-Booking-Analysis/assets/108412331/11932b4d-c46c-427f-be9b-bfa347f12a0f">
