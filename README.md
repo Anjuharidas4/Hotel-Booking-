@@ -64,6 +64,8 @@
 
  - ***reservation_status_date***: Date at which the last status was set. This variable can be used in conjunction with the ReservationStatus to understand when was the booking cancelled or when did the customer checked out of the hotel.
 
+### <ins>Dashboard</ins>
+
 ### <ins> Data Manupulation </ins>
 
 ##### 1) In which year did the maximum number of bookings occur, considering individual hotels in three years. Also which month and ?
@@ -75,3 +77,7 @@
 <img width="588" alt="Screenshot 2023-10-09 at 9 48 22 PM" src="https://github.com/Anjuharidas4/Hotel-Booking-Analysis/assets/108412331/eddaf22e-9763-4ea0-900f-db1bd1c743b9">
 
 #####  - In 2016, city hotels received the highest number of bookings, with a total of 38,140 bookings, surpassing the number of bookings at resorts.
+
+### <ins>Executive Dashboard</ins>
+<img width="1127" alt="Screenshot 2023-10-12 at 4 06 53 PM" src="https://github.com/Anjuharidas4/Hotel-Booking-Analysis/assets/108412331/2cc65871-e22a-4a35-a718-bd19049ab831">
+
