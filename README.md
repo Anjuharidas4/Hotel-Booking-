@@ -48,7 +48,7 @@
 
  - ***agent***: ID of the travel agency that made the booking.
 
- - ***company***: ID of the company/entity that made the booking or responsible for paying the booking.
+ - ***company***: ID of the company/entity that made the booking or is responsible for paying the booking.
 
  - ***days_in_waiting_list***: Number of days the booking was in the waiting list before it was confirmed to the customer.
 
@@ -66,7 +66,7 @@
 
 ### <ins> Data Manupulation </ins>
 
-##### 1) In which year did the maximum number of bookings occur, considering individual hotels in three years?
+##### 1) In which year did the maximum number of bookings occur, considering individual hotels in three years. Also which month and ?
 
 <img width="712" alt="Screenshot 2023-10-09 at 9 58 10 PM" src="https://github.com/Anjuharidas4/Hotel-Booking-Analysis/assets/108412331/11932b4d-c46c-427f-be9b-bfa347f12a0f">
 
