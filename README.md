@@ -64,7 +64,9 @@
 
  - ***reservation_status_date***: Date at which the last status was set. This variable can be used in conjunction with the ReservationStatus to understand when was the booking cancelled or when did the customer checked out of the hotel.
 
-### <ins>Dashboard</ins>
+### <ins>Dashboard Tableau Public</ins>
+
+https://public.tableau.com/app/profile/anju.haridas/viz/HotelBookingAnalysis_16971090037870/OverviewofHotelBookinganalysis?publish=yes
 
 ### <ins> Data Manupulation </ins>
 
@@ -79,5 +81,5 @@
 #####  - In 2016, city hotels received the highest number of bookings, with a total of 38,140 bookings, surpassing the number of bookings at resorts.
 
 ### <ins>Executive Dashboard</ins>
-<img width="1127" alt="Screenshot 2023-10-12 at 4 06 53 PM" src="https://github.com/Anjuharidas4/Hotel-Booking-Analysis/assets/108412331/2cc65871-e22a-4a35-a718-bd19049ab831">
 
+<img width="1232" alt="Screenshot 2023-10-13 at 4 10 02 PM" src="https://github.com/Anjuharidas4/Hotel-Booking-Analysis/assets/108412331/b8886b85-eb02-4595-91c1-ad0d7b8246ff">
