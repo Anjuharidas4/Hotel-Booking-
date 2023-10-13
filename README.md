@@ -82,4 +82,17 @@ https://public.tableau.com/app/profile/anju.haridas/viz/HotelBookingAnalysis_169
 
 ### <ins>Executive Dashboard</ins>
 
+##### Customers booking from India exhibit a booking pattern to various destinations. The maximum bookings occurred in 2016, reaching 36122 bookings, surpassing the numbers in 2015, which were 13,753 bookings, and in 2017, which stood at 24870 bookings.
+
+<img width="524" alt="Screenshot 2023-10-13 at 5 45 52 PM" src="https://github.com/Anjuharidas4/Hotel-Booking-Analysis/assets/108412331/a2559bd9-b1f9-4a30-ad05-2ca54cc5159c">
+
+##### In India, there were a total of 117 bookings over the course of three years. Notably, there is a tendency among people to choose city hotels, with 84 bookings, which is 51 more than resort bookings, which amount to 33, over the same three-year period.
+
+<img width="644" alt="Screenshot 2023-10-13 at 6 12 07 PM" src="https://github.com/Anjuharidas4/Hotel-Booking-Analysis/assets/108412331/0a8a9c29-b194-47bf-8ae7-1d096dfd99f9">
+
+##### On the 23rd of November, the city hotel received its highest number of bookings from India, totaling 9 bookings over a span of three years.<img width="680" alt="Screenshot 2023-10-13 at 5 13 56 PM" src="https://github.com/Anjuharidas4/Hotel-Booking-Analysis/assets/108412331/72193e93-be3b-47d7-becc-01e85b1002b9">
+
+
 <img width="1232" alt="Screenshot 2023-10-13 at 4 10 02 PM" src="https://github.com/Anjuharidas4/Hotel-Booking-Analysis/assets/108412331/b8886b85-eb02-4595-91c1-ad0d7b8246ff">
+
+
