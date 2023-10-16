@@ -92,9 +92,11 @@ https://public.tableau.com/app/profile/anju.haridas/viz/HotelBookingAnalysis_169
 
 ##### On the 23rd of November, the city hotel received its highest number of bookings from India, totaling 9 bookings over a span of three years. Portugal had the highest number of bookings, totaling 21,071, while India contributed only 0.6% of the bookings, indicating that the travel patterns of Indian customers are below the average rate.
 
-<img width="680" alt="Screenshot 2023-10-13 at 5 13 56 PM" src="https://github.com/Anjuharidas4/Hotel-Booking-Analysis/assets/108412331/72193e93-be3b-47d7-becc-01e85b1002b9">
+<img width="649" alt="Screenshot 2023-10-13 at 5 21 10 PM" src="https://github.com/Anjuharidas4/Hotel-Booking-Analysis/assets/108412331/8d6e08ed-9c29-45ef-ae2b-ac615df28633">
 
 ##### Online bookings accounted for the highest number of reservations made from India.
+
+<img width="1227" alt="Screenshot 2023-10-16 at 1 08 03 PM" src="https://github.com/Anjuharidas4/Hotel-Booking-Analysis/assets/108412331/e2f6552b-5f7d-4445-a85f-c0799b4f1336">
 
 <img width="1232" alt="Screenshot 2023-10-13 at 4 10 02 PM" src="https://github.com/Anjuharidas4/Hotel-Booking-Analysis/assets/108412331/b8886b85-eb02-4595-91c1-ad0d7b8246ff">
 
