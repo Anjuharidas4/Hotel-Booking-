@@ -70,11 +70,13 @@ https://public.tableau.com/app/profile/anju.haridas/viz/HotelBookingAnalysis_169
 
 ### <ins> Data Manupulation </ins>
 
-##### 1) In which year did the maximum number of bookings occur, considering individual hotels in three years. Also which month and ?
+##### 1) In which year did the maximum number of bookings occur, considering individual hotels in three years.
+
 
 <img width="712" alt="Screenshot 2023-10-09 at 9 58 10 PM" src="https://github.com/Anjuharidas4/Hotel-Booking-Analysis/assets/108412331/11932b4d-c46c-427f-be9b-bfa347f12a0f">
 
 #####  - In terms of bookings, 2016 exceeded 2015 with over 55 bookings, marking it as the year with the highest numbers. However, there was a decrease in bookings in 2017, which still outperformed the numbers from 2015.
+
 
 <img width="588" alt="Screenshot 2023-10-09 at 9 48 22 PM" src="https://github.com/Anjuharidas4/Hotel-Booking-Analysis/assets/108412331/eddaf22e-9763-4ea0-900f-db1bd1c743b9">
 
@@ -84,22 +86,28 @@ https://public.tableau.com/app/profile/anju.haridas/viz/HotelBookingAnalysis_169
 
 ##### Customers booking from India exhibit a booking pattern to various destinations. The maximum bookings occurred in 2016, reaching 36122 bookings, surpassing the numbers in 2015, which were 13,753 bookings, and in 2017, which stood at 24870 bookings.
 
+
 <img width="524" alt="Screenshot 2023-10-13 at 5 45 52 PM" src="https://github.com/Anjuharidas4/Hotel-Booking-Analysis/assets/108412331/a2559bd9-b1f9-4a30-ad05-2ca54cc5159c">
 
 ##### In India, there were a total of 117 bookings over the course of three years. Notably, there is a tendency among people to choose city hotels, with 84 bookings, which is 51 more than resort bookings, which amount to 33, over the same three-year period.
+
 
 <img width="644" alt="Screenshot 2023-10-13 at 6 12 07 PM" src="https://github.com/Anjuharidas4/Hotel-Booking-Analysis/assets/108412331/0a8a9c29-b194-47bf-8ae7-1d096dfd99f9">
 
 ##### On the 23rd of November, the city hotel received its highest number of bookings from India, totaling 9 bookings over a span of three years. Portugal had the highest number of bookings, totaling 21,071, while India contributed only 0.6% of the bookings, indicating that the travel patterns of Indian customers are below the average rate.
 
+
 <img width="649" alt="Screenshot 2023-10-13 at 5 21 10 PM" src="https://github.com/Anjuharidas4/Hotel-Booking-Analysis/assets/108412331/8d6e08ed-9c29-45ef-ae2b-ac615df28633">
 
 ##### - Online bookings accounted for the highest number of reservations made from India.For travelers from India, 
 ##### - the average minimum lead time to book a city hotel falls within the range of 16 to 59 days, which is approximately two weeks. On the other hand, for resort bookings, the average minimum lead time is in the range of 22 to 58 days, close to two months.
+
+
+<img width="1227" alt="Screenshot 2023-10-16 at 1 08 03 PM" src="https://github.com/Anjuharidas4/Hotel-Booking-Analysis/assets/108412331/e2f6552b-5f7d-4445-a85f-c0799b4f1336">
+
 ##### - The highest booking charges are accrued from Indian tourists who make reservations for Type B rooms at city hotels.
 ##### - The highest number of bookings, amounting to 72, occurred for weekday stays in the month of November at city hotels, as opposed to 23 bookings for weekend stays in November at city hotels.
 
-<img width="1227" alt="Screenshot 2023-10-16 at 1 08 03 PM" src="https://github.com/Anjuharidas4/Hotel-Booking-Analysis/assets/108412331/e2f6552b-5f7d-4445-a85f-c0799b4f1336">
 
 <img width="1220" alt="Screenshot 2023-10-16 at 1 19 30 PM" src="https://github.com/Anjuharidas4/Hotel-Booking-Analysis/assets/108412331/ef29a1cd-d738-47dc-a946-f0b842c9d42d">
 
