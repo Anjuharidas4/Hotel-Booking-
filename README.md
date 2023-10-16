@@ -94,10 +94,18 @@ https://public.tableau.com/app/profile/anju.haridas/viz/HotelBookingAnalysis_169
 
 <img width="649" alt="Screenshot 2023-10-13 at 5 21 10 PM" src="https://github.com/Anjuharidas4/Hotel-Booking-Analysis/assets/108412331/8d6e08ed-9c29-45ef-ae2b-ac615df28633">
 
-##### Online bookings accounted for the highest number of reservations made from India.
+##### - Online bookings accounted for the highest number of reservations made from India.For travelers from India, 
+##### - the average minimum lead time to book a city hotel falls within the range of 16 to 59 days, which is approximately two weeks. On the other hand, for resort bookings, the average minimum lead time is in the range of 22 to 58 days, close to two months.
+##### - The highest booking charges are accrued from Indian tourists who make reservations for Type B rooms at city hotels.
+##### - The highest number of bookings, amounting to 72, occurred for weekday stays in the month of November at city hotels, as opposed to 23 bookings for weekend stays in November at city hotels.
 
 <img width="1227" alt="Screenshot 2023-10-16 at 1 08 03 PM" src="https://github.com/Anjuharidas4/Hotel-Booking-Analysis/assets/108412331/e2f6552b-5f7d-4445-a85f-c0799b4f1336">
 
-<img width="1232" alt="Screenshot 2023-10-13 at 4 10 02 PM" src="https://github.com/Anjuharidas4/Hotel-Booking-Analysis/assets/108412331/b8886b85-eb02-4595-91c1-ad0d7b8246ff">
+<img width="1220" alt="Screenshot 2023-10-16 at 1 19 30 PM" src="https://github.com/Anjuharidas4/Hotel-Booking-Analysis/assets/108412331/ef29a1cd-d738-47dc-a946-f0b842c9d42d">
 
+### <ins>Conclusion</ins>
+
+##### - Based on the data, it's clear that high demand leads to increased costs, as demand and prices exhibit a direct correlation. Therefore, strategically planning your arrival during periods of lower demand can result in significant cost savings and a more serene vacation experience.
+
+##### - It's evident that for obtaining more affordable and reasonable rates, it's advisable to make reservations well in advance, typically within the range of two weeks to two months, or even further ahead. Additionally, selecting an arrival month other than November and scheduling a weekend night stay in resorts can also lead to cost savings. Moreover, it's worth noting that booking charges are generally lower for resort accommodations compared to city hotels.
 
